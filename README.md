@@ -18,7 +18,7 @@ that makes key patterns and trends easier to understand.
 
 ## Dashboard Preview
 
-![Cybersecurity Breaches Dashboard]([screenshots/dashboard-overview.png](https://github.com/AdhiGozalt/Cybersecurity-Breach-Dashboard/blob/main/dashboard-overview.png))
+![Cybersecurity Breaches Dashboard]([screenshots/dashboard-overview.png])
 
 > **Note:** The dashboard screenshot above provides an overview of breach
 > incidents, exposed records, breach methods, organization types, and trends
