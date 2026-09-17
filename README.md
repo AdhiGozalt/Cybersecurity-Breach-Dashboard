@@ -47,6 +47,17 @@ The main objectives of this analysis are:
 - Transform raw data into actionable analytical insights.
 
 ---
+## Key Insights
+
+Based on the current dashboard:
+
+1. The dataset contains 73 recorded breach incidents.
+2. Approximately 96 million records are represented in the dataset.
+3. Hacking represents the largest number of recorded breach incidents among
+4. the displayed leak methods.
+5. Organization types differ substantially in the number of exposed records.
+6. The number of recorded breaches varies across the analyzed years, with
+noticeable changes in breach frequency over time.
 
 ## Key Analysis
 
